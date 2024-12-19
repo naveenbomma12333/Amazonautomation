@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01 Verify the Login Functionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>701cc0f1-f5f2-4e0b-b5ca-ba49cc4a1899</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ec53a569-fcd9-4507-8073-133a612e3689</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/LoginCredentials</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ec53a569-fcd9-4507-8073-133a612e3689</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>UserPhonenumber</value>
+      <variableId>b4da0e9c-9b4c-430b-a328-8ff55e2b95f2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ec53a569-fcd9-4507-8073-133a612e3689</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>3e026b53-cb90-462f-83d3-0746ff197acc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b4da0e9c-9b4c-430b-a328-8ff55e2b95f2</id>
+      <masked>false</masked>
+      <name>UserPhonenumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3e026b53-cb90-462f-83d3-0746ff197acc</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

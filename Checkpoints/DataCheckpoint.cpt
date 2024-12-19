@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>DataCheckpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/LoginCredentials</source-url>
+   </source-info>
+   <taken-date>2024-12-17T12:35:31.016+05:30</taken-date>
+   <column-names>
+      <column-name>UserPhonenumber</column-name>
+      <column-name>Password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "9177580572",
+      "checked": false
+    },
+    {
+      "value": "Nations@123",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
